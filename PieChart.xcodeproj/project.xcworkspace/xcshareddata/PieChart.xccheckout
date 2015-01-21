@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>50721936-2F35-41CB-A090-85BFAEB1C3D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PieChart</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BAEAAAA588B1C94696929167321BD29D62B9F36F</key>
+		<string>https://github.com/asiftechie/PieChart.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PieChart.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BAEAAAA588B1C94696929167321BD29D62B9F36F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/asiftechie/PieChart.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BAEAAAA588B1C94696929167321BD29D62B9F36F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BAEAAAA588B1C94696929167321BD29D62B9F36F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PieChart</string>
+		</dict>
+	</array>
+</dict>
+</plist>
